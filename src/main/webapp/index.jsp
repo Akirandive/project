@@ -11,8 +11,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="1">Akshay Randive edit this page for testing </th>
-                        <th colspan="2">Login Page</th>
+                        <th colspan="1">Login Page</th>
 
                     </tr>
                 </thead>
